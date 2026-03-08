@@ -1,0 +1,18 @@
+{
+  "short_name": "RavePandaCalc",
+  "name": "Foodpanda Remittance Calculator",
+  "description": "Automated remittance calculator for Foodpanda operations.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a1a",
+  "background_color": "#f4f4f4",
+  "icons": [
+    {
+      "src": "./logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
